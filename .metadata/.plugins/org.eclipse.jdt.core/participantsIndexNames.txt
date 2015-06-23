@@ -1,0 +1,3 @@
+INDEX VERSION 1.126
+C:\Users\adc\Documents\GitHub\project624\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1427280235.index
+\624\src
